@@ -1,6 +1,6 @@
 # ui_whatsapp
 
-A new Flutter project.
+A Flutter project for Practical 4.
 
 ## Getting Started
 
